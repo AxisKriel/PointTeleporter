@@ -19,7 +19,7 @@ using Terraria.ID;
 
 namespace PointTeleporter
 {
-        [ApiVersion(1, 16)]
+        [ApiVersion(1, 17)]
         public class PointTeleporter : TerrariaPlugin
         {
             public PointTeleporter(Main game)
